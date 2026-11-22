@@ -1,3 +1,7 @@
 project: oss-hw2-1155
 owner: choiseokjin
+<<<<<<< HEAD
 status: main-choiseokjin
+=======
+status: feature-1155
+>>>>>>> feature/1155
